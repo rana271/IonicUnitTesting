@@ -1,0 +1,7 @@
+{
+  "name": "IonicUnittesting",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
